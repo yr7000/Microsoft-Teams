@@ -35,3 +35,6 @@ Microsoft Teams clone is the challenge given to us in the microsoft engage 2021.
 
 ### Note
 For a smooth experience, use this website only in laptops or in pc. It is not responsive for other devices.
+If you want to test this application locally, please follow below 2 steps before testing
+1. Enter your twilio account details in server.js file
+2. Change the heroku url to local host in the TwilioUtils.js file
